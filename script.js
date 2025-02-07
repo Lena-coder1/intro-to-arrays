@@ -1,7 +1,7 @@
 // declaring array
 
 let list = ["schools", "books", "cars","countries", "jobs"];
-
+console.log(list);
 // accessing array
 
 const education= list[0];
